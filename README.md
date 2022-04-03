@@ -1,4 +1,4 @@
-# desafioAlura7DaysOfCodeReact
+# Desafio Alura 7DaysOfCode em React
 
 Este repositório foi criado para exibir algumas respostas referentes ao desafio da alura "7DaysOfCode" sobre react!
 
